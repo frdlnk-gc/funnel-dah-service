@@ -1,0 +1,136 @@
+{
+ "firma": "DAH Gruppe",
+ "stelle": "Betriebsleiter Biogas (m/w/d)",
+ "ort": "Dersewitz",
+ "plz": "17391",
+ "branche": "landwirtschaft",
+ "farbe_primary": "#004824",
+ "farbe_secondary": "#6CB424",
+ "region_badge": "Dersewitz & Umgebung",
+ "benefit_top": "Dienstwagen auch privat",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Leitende Position mit Gestaltungsspielraum in einem nachhaltigen Unternehmen auf Wachstumskurs",
+  "Dienstwagen zur Privatnutzung & Firmenhandy",
+  "Jahresprämie & Givve Card mit 50 € monatlich steuerfrei",
+  "Betriebliche Altersvorsorge: ab Beginn 25 % Zuschuss, jährlich + 1 %",
+  "29 Tage Urlaub & flexible Arbeitszeiten",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Jobrad-Leasing, Mitarbeitervorteilsprogramm & Mitarbeiter-Events"
+ ],
+ "aufgaben": [
+  "Du leitest die Biogasanlage – technisch, betriebswirtschaftlich und biologisch – und koordinierst die Abläufe am Standort",
+  "Du führst dein Team fachlich und disziplinarisch und planst die Einsätze",
+  "Du überwachst alle Prozesse und dokumentierst Mess- und Arbeitsergebnisse",
+  "Du verantwortest die Kosten- und Erlösplanung",
+  "Du bist Schnittstelle zu den Fachabteilungen in Oranienburg für einen rechtskonformen Anlagenbetrieb (BauGB, BImSchG, EEG)",
+  "Du optimierst Abläufe, begleitest Umbauprojekte und stimmst dich mit Behörden, Rohstofflieferanten und Gärrestabnehmern ab"
+ ],
+ "anforderung": "Ein abgeschlossenes Ingenieursstudium (Verfahrenstechnik, Maschinen- und Anlagenbau oder Umwelttechnik) – alternativ eine fundierte Techniker- oder Meisterausbildung oder ein Studium der Agrarwissenschaften. Dazu erprobtes Fachwissen rund um Biogas, ein kooperativer Führungsstil, sichere MS-Office-Kenntnisse, sehr gutes Deutsch und Führerschein Klasse B.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Ingenieur (Verfahrens-, Anlagen-, Umwelttechnik)",
+   "icon": "⚙️",
+   "qualifikationen": [
+    {
+     "label": "Abschluss + Biogas-Erfahrung",
+     "icon": "🎓"
+    },
+    {
+     "label": "Abschluss, wenig Biogas-Erfahrung",
+     "icon": "📘"
+    },
+    {
+     "label": "Biogas-Erfahrung ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Techniker / Meister",
+   "icon": "🏅",
+   "qualifikationen": [
+    {
+     "label": "Abschluss + Biogas-Erfahrung",
+     "icon": "🎓"
+    },
+    {
+     "label": "Abschluss, wenig Biogas-Erfahrung",
+     "icon": "📘"
+    },
+    {
+     "label": "Biogas-Erfahrung ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Agrarwissenschaften",
+   "icon": "🌾",
+   "qualifikationen": [
+    {
+     "label": "Abschluss + Biogas-Erfahrung",
+     "icon": "🎓"
+    },
+    {
+     "label": "Abschluss, wenig Biogas-Erfahrung",
+     "icon": "📘"
+    },
+    {
+     "label": "Biogas-Erfahrung ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Erfahrung mit Biogasanlagen",
+     "icon": "⚡"
+    },
+    {
+     "label": "Andere Ausbildung / Studium",
+     "icon": "📘"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "rund 400",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "seit 2016",
+    "label": "am Markt"
+   },
+   {
+    "zahl": "20.000 ha",
+    "label": "Agrarflächen"
+   }
+  ],
+  "text": "Die DAH Gruppe ist ein zukunftsorientiertes Agrar- und Energieunternehmen mit Sitz in Oranienburg. Seit der Gründung 2016 bewirtschaften rund 400 Mitarbeiter etwa 20.000 Hektar Agrarflächen und erzeugen Biogas, Biomethan, Strom und Wärme aus erneuerbaren Quellen – regional verankert und deutschlandweit wirksam."
+ },
+ "kunde_tab": "46 DAH Service",
+ "quelle": "https://dah-service.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Dersewitz (17391)"
+ },
+ "hero_bild": "img/hero-biogasanlage.jpg",
+ "bilder": [
+  "img/f1-anlage-luftbild.jpg",
+  "img/f2-radlader-fermenter.jpg",
+  "img/f3-silage-anlage.jpg",
+  "img/f4-team-fermenter.jpg"
+ ],
+ "meta_geo": [
+  "17391 Dersewitz"
+ ],
+ "stelle_id": 262
+}

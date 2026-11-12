@@ -1,0 +1,20 @@
+{
+ "firma": "DAH Gruppe",
+ "p": "#004824",
+ "p2": "#2E8A3A",
+ "dark": "#003019",
+ "acc": "#C8DC2A",
+ "stelle": "Betriebsleiter Biogas (m/w/d)",
+ "ort": "Dersewitz",
+ "umg": "Dersewitz · Anklam · Greifswald",
+ "gruende": [["Leitende Position", "mit Gestaltungsspielraum"], ["Dienstwagen", "auch zur Privatnutzung"], ["Unbefristet", "in Vollzeit"]],
+ "g_photo": ["raw/m07-a7620031.jpg", "50% 50%"],
+ "z_T": 420,
+ "zwei": {
+  "h": "Technik, Biologie und Zahlen – du leitest die Anlage am Standort.",
+  "a": ["Die Anlage", "raw/m03-7b1ea311.jpg", "62% 50%"],
+  "b": ["Die Rohstoffe", "raw/m15-98523418.jpg", "40% 50%"]
+ },
+ "zentrum": [53.8685161, 13.5048826],
+ "logo": "logo-hd.png"
+}

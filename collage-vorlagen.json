@@ -1,0 +1,37 @@
+[
+ {
+  "name": "V04-collage",
+  "logo": "logo-weissgrund-hd.png",
+  "fotos": [
+   "raw/m03-7b1ea311.jpg",
+   "raw/m07-a7620031.jpg",
+   "raw/m14-0e1a32ff.jpg"
+  ],
+  "fokus": [
+   [
+    0.62,
+    0.5
+   ],
+   [
+    0.5,
+    0.5
+   ],
+   [
+    0.5,
+    0.5
+   ]
+  ],
+  "primary": "#004824",
+  "headline": [
+   "Betriebsleiter",
+   "Biogas"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Biogasanlage in Dersewitz (17391)",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]

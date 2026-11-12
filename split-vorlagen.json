@@ -1,0 +1,43 @@
+[
+ {
+  "name": "V03-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "raw/m14-0e1a32ff.jpg",
+  "primary": "#004824",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN DERSEWITZ (17391)",
+  "headline": [
+   "Betriebsleiter Biogas (m/w/d)"
+  ],
+  "checkliste": [
+   "Dienstwagen zur Privatnutzung",
+   "Unbefristet in Vollzeit",
+   "29 Tage Urlaub & Jahresprämie"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "name": "V03-checkliste",
+  "format": "9x16",
+  "logo": "logo-hd.png",
+  "foto": "raw/m03-7b1ea311.jpg",
+  "primary": "#004824",
+  "zoom_9x16": 1.0,
+  "fokus_9x16": [
+   0.62,
+   0.5
+  ],
+  "kicker": "DERSEWITZ (17391)",
+  "headline": [
+   "Betriebsleiter",
+   "Biogas (m/w/d)"
+  ],
+  "cta": "Job-Angebot in 60 Sek. erhalten"
+ }
+]
